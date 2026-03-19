@@ -1,0 +1,5 @@
+{
+  "name": "门店运营端",
+  "description": "Store Ops Mobile - 门店现场履约处理与车辆管理",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
